@@ -1,0 +1,9 @@
+{
+    "name": "deniscsz/inchoo_soaplogger",
+    "description": "Magento extension for logging SOAP V1 and V2 API calls",
+    "type": "magento-module",
+    "homepage": "https://github.com/deniscsz/Inchoo_SoapLogger",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
