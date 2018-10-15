@@ -1,2 +1,3 @@
 app/code/community/Inchoo/SoapLogger/    app/code/community/Inchoo/SoapLogger/
 app/etc/modules/Inchoo_SoapLogger.xml     app/etc/modules/Inchoo_SoapLogger.xml
+app/code/community/Zend/    app/code/community/Zend/
